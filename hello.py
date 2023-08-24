@@ -1,1 +1,1 @@
-print("I love MIPT")
+print("My name is...")
