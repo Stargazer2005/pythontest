@@ -1,1 +1,1 @@
-print(11*11)
+print("I love MIPT")
