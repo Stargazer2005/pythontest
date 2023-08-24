@@ -1,1 +1,1 @@
-print("What's up?")
+print(11*11)
